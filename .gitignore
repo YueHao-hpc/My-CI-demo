@@ -1,3 +1,4 @@
 # 忽略 Python 虚拟环境
 .venv/
 venv/
+__pycache__/
